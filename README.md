@@ -1,7 +1,7 @@
-# AQ Assure: CNN for Air Quality Prediction
+AQ Assure: CNN for Air Quality Prediction
 
 ## Overview
-AQ Assure is a convolutional neural network (CNN) model designed to predict air quality by analyzing satellite images and weather data. The model aims to provide accurate PM2.5 level predictions, helping individuals, particularly those with respiratory conditions, plan outdoor activities based on air pollution levels.
+AQ Assure is a convolutional neural network (CNN) model designed to predict air quality by analyzing satellite images and weather data. The model aims to provide accurate PM2.5 level predictions, helping individuals, particularly those with respiratory conditions, plan outdoor activities based on air pollution levels
 
 ## Motivation
 Growing up with asthma in Monterrey, Mexico, where air pollution is a significant concern, inspired the development of this project. The goal is to create a predictive tool that informs users about air quality, aiding individuals in making health-conscious decisions regarding outdoor activities.
